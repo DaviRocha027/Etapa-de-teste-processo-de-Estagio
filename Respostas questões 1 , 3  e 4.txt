@@ -1,0 +1,13 @@
+1) Resposta é 91. 
+
+3) a- o próximo elemento da sequência é 9;
+	o próximo elemento da sequência é 128;
+	o próximo elemento da sequência é 49;
+	o próximo elemento da sequência é 100;
+	o próximo elemento da sequência é 13;
+	o próximo elemento da sequência é 20;
+
+4) Sabemos que a distância entre Ribeirão Preto e Franca é de 100 km, e que ambos os veículos estão se aproximando um do outro. Portanto, a distância percorrida pelo carro até o ponto de encontro é igual à distância percorrida pelo caminhão até o ponto de encontro.
+Além disso, precisamos levar em consideração os obstáculos no caminho, que são os dois pedágios. O caminhão leva 5 minutos a mais para passar em cada um deles, enquanto o carro passa sem parar, pois possui tag de pedágio. Sabendo que a velocidade do caminhão é de 80 km/h, podemos calcular a distância percorrida por ele em 5 minutos, que é igual a 6,67 km (80 km/h * 5/60 h). Portanto, a distância total percorrida pelo caminhão até o ponto de encontro será de 100 km + 2 * 6,67 km = 113,34 km.
+Já o carro não precisa parar nos pedágios, então a distância percorrida por ele até o ponto de encontro é simplesmente de 100 km.
+Portanto, quando os dois veículos se cruzarem na rodovia, o carro estará mais próximo da cidade de Ribeirão Preto, pois percorreu uma distância menor até o ponto de encontro. Para chegar nesse resultado juntei meu conhecimento em velocidade média, distância e aceleração(príncipios de física básica) juntamente com uma sequência lógica baseada nas informações contidas no enunciado da questão.
